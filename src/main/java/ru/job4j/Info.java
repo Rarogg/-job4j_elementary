@@ -1,7 +1,8 @@
-package ru.job4j.Info;
+package ru.job4j;
 
-public class Info {
+public class Info  {
     public static void main(String[] args) {
         System.out.println("01.03.2022");
     }
 }
+
